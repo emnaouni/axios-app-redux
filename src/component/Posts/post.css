@@ -1,0 +1,23 @@
+.PostItem{
+    border: 5px solid pink!important;
+    border-radius: 25px!important;
+    /* margin: 0 20%; */
+    width: 27%!important;
+    margin-left: 22px;
+    margin-bottom: 15px;
+    padding: 13px;
+}
+.PostList{
+    display: flex;
+    flex-wrap: wrap;
+}
+.buttonPost{
+    margin-top: 15px;
+    padding: 7px 14px;
+    margin: 7px 0px;
+    /* background-color: lightblue; */
+    font-size: large;
+    /* font-family: cursive; */
+    border-color: lightblue;
+    color: white;
+}

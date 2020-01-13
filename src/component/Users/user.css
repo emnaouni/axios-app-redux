@@ -1,0 +1,34 @@
+.Userlist{
+    display: flex;
+    flex-wrap: wrap;
+}
+.UserItem{
+    border: 5px solid pink!important;
+    border-radius: 25px!important;
+    /* margin: 0 20%; */
+    width: 27%!important;
+    margin-left: 22px;
+    margin-bottom: 15px;
+    padding: 13px;
+}
+.campany-infos{
+    color: aqua;
+}
+img{
+    width: 65px;
+    height: 57px;
+    border-radius: 54px;
+}
+button{
+    margin-top: 15px;
+    padding: 7px 40px;
+    margin: 7px 0px;
+    background-color: lightblue;
+    font-size: large;
+    /* font-family: cursive; */
+    border-color: lightblue;
+    color: white;
+}
+button a{
+    text-decoration: none!important;
+}

@@ -1,0 +1,9 @@
+.CommentItem{
+    border: 5px solid #2196F3!important;
+    border-radius: 25px!important;
+    /* margin: 0 20%; */
+    width: 27%!important;
+    margin-left: 22px;
+    margin-bottom: 15px;
+    padding: 13px;
+}
